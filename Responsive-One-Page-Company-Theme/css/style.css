@@ -1,0 +1,113 @@
+body{
+  margin-top:70px;
+  font-size:16px;
+}
+
+h1,h2,h3,h4,h5,h6{
+  font-family:Poppins;
+}
+
+p{
+  font-family:Roboto;
+}
+
+.form-group{
+  color:#000;
+}
+
+.navbar-default{
+  background:#fff;
+  border:0;
+  font-family:Poppins;
+}
+
+.navbar-brand{
+  font-size: 32px;
+  /* !important overrides any current style */
+  color: #4177d2 !important;
+  font-weight: bold;
+}
+
+#showcase h1{
+  color: #4177d2;
+  font-size:50px;
+  margin-bottom:20px;
+}
+
+#showcase img{
+  width:90%;
+  margin-left:60px;
+  margin-top: 32px;
+}
+
+#showcase .showcase-right{
+  margin-top:90px;
+}
+
+#testimonial{
+  background:#f1f1f1;
+  padding: 50px 0 30px 0;
+  text-align:center;
+  margin-top:40px;
+  margin-bottom: 40px;
+}
+
+#testimonial p{
+  font-size:32px;
+  font-family: 'Josefin Sans';
+  color:#000;
+}
+
+#testimonial p.customer{
+  font-size:20px;
+  color:#666;
+}
+
+#info2 .img-{
+  margin:auto;
+  border-top: 3px;
+}
+
+#info1 .info-right h2{
+  margin-top:140px;
+  color: #4177d2;
+}
+
+
+#info1 .info-two-right h2{
+  margin-top:140px;
+  color: #4177d2;
+}
+
+#info1 .info-two-left h3{
+  text-align: center;
+  color: #4177d2;
+}
+
+
+#info2{
+  margin:40px 0 60px 0;
+}
+#info2 .info-right, .info-left   {
+  text-align: center;
+}
+
+#contact h3{
+  color: #4177d2;
+}
+#contact{
+  background:url(../img/hvacFooter.png);
+  padding:40px;
+  color:#fff;
+  border-top: #fff 7px solid;
+  /*border-bottom: #fff 7px solid;*/
+}
+hr {
+  margin: 80px 0 80px 0;
+}
+
+footer{
+  background: #4177d2;
+  color:#fff;
+  padding:30px;
+}
